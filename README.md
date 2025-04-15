@@ -4,7 +4,7 @@ This repository contains topic-wise notes and technical explanations for the SAP
 
 ## 📂 Sections
 
-- [01 - ABAP Basics](01-ABAP-Basics)
+- [01 - ABAP Basics](01-ABAP-Basics/abap-intro)
 - [02 - Data Types](02-Data-Types)
 - [03 - Data Dictionary](03-Data-Dictionary)
 - [04 - Object-Oriented ABAP](04-OO-ABAP)
