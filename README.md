@@ -1,11 +1,11 @@
-# C_ABAPD_2309_Guide
-Technical guide and study tips for SAP C_ABAPD_2309 certification
-# SAP C_ABAPD_2309 Technical Guide
+# SAP C_ABAPD_2309 Certification Guide
 
-This repo contains notes and tutorials for the SAP ABAP Developer certification.
+This repository contains topic-wise notes and technical explanations for the SAP Certified Development Associate – ABAP with SAP NetWeaver 7.5 (C_ABAPD_2309) exam.
 
-## Topics:
-- ABAP Basics
-- Data Types
-- Dictionary
-- Object-Oriented ABAP
+## 📂 Sections
+
+- [01 - ABAP Basics](01-ABAP-Basics)
+- [02 - Data Types](02-Data-Types)
+- [03 - Data Dictionary](03-Data-Dictionary)
+- [04 - Object-Oriented ABAP](04-OO-ABAP)
+- [Exam Tips](Exam-Tips)
