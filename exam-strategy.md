@@ -13,7 +13,7 @@ Here are some practical tips to prepare well for the SAP ABAP Developer certific
 ### 3. Take Practice Tests
 - Attempt mock exams to get used to the question format
 - Identify weak areas and revise
-- Check out [ERPPREP's C_ABAPD_2309 Practice Tests]([https://www.erpprep.com/sap-abap-certification](https://www.erpprep.com/sap-cloud-solutions/c-abapd-2309-sap-abap-cloud-back-end-developer))
+- Check out [ERPPREP's C_ABAPD_2309 Practice Tests](https://www.erpprep.com/sap-cloud-solutions/c-abapd-2309-sap-abap-cloud-back-end-developer).
 
 ### 4. Read SAP Help and Blogs
 - Explore [SAP Help Portal](https://help.sap.com)
