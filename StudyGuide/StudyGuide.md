@@ -26,3 +26,8 @@ There are several reasons why one should grab the C_ABAPD_2309 certification.
 To get familiar with the structure of the SAP ABAP Cloud - Back-End Developer (C_ABAPD_2309) certification exam, use this set of sample questions. These C_ABAPD_2309 practice questions are designed to test understanding of the ABAP Cloud - Back-End Developer concepts in a simulated SAP certification environment.
 
 - [Practice Exam](./practice-exam.md)
+
+## Purchase Premium Practice Exams
+For a deeper understanding of the exam structure and to assess your readiness, it can be helpful to explore additional practice resources. A set of well-structured practice questions and exam simulations can provide valuable insight into the types of questions you may encounter.
+
+You can find more details and access relevant practice materials **[here](https://www.erpprep.com/sap-cloud-solutions/c-abapd-2309-sap-abap-cloud-back-end-developer)**
