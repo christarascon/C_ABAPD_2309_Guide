@@ -22,9 +22,3 @@ Here are some practical tips to prepare well for the SAP ABAP Developer certific
 ### 5. Stay Consistent
 - Study small topics every day
 - Make short notes for revision
-
----
-
-💡 **Tip:** Bookmark the [SAP Learning Site](https://learning.sap.com) for official learning journeys and keep revisiting [ERPPREP](https://www.erpprep.com) for structured practice.
-
-Good luck! You got this! 🚀
