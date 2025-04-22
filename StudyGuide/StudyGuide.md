@@ -11,11 +11,11 @@ There are several reasons why one should grab the C_ABAPD_2309 certification.
 ## SAP C_ABAPD_2309 Exam Structure
 | **Field**                | **Details**                                                                                                                                     |
 |--------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Exam Name**            | SAP Certified Associate - Implementation Consultant - SAP S/4HANA Cloud Public Edition                                                         |
-| **Exam Code**            | C_S4CPB_2502                                                                                                                                       |                                                                                                                                     |
-| **Duration**             | 120 mins                                                                                                                                       |
-| **Number of Questions**  | 60                                                                                                                                              |
-| **Cut Score**            | 67%                                                                                                                                             |
+| **Exam Name**            | SAP Certified Associate - Back-End Developer - ABAP Cloud                                                                                     |
+| **Exam Code**            | C_ABAPD_2309                                                                                                                                       |                                                                                                                                     |
+| **Duration**             | 180 mins                                                                                                                                       |
+| **Number of Questions**  | 80                                                                                                                                              |
+| **Cut Score**            | 65%                                                                                                                                             |
 | **Schedule Exam**        | [SAP Learning](https://learning.sap.com)
 | **Language**             | English, Spanish, Japanese, Portuguese, French, German, Chinese, Korean
 
